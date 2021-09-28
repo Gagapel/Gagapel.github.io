@@ -1,0 +1,17 @@
+body {
+	background-color:#9bb096;
+}
+
+p {
+	color:#332f2f;
+	font-family:Times;
+        font-size:30px;
+}
+
+a{
+	color:#9e5206; 
+}
+
+a:hover {
+	color:#e3caca;
+}
